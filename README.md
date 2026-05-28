@@ -10,11 +10,13 @@
 ---
 # Developer Mode
 
+```python
 while(alive):
->    eat()
->    code()
->    sleep()
->    repeat()
+    eat()
+    code()
+    sleep()
+    repeat()
+
 
 ---
 
