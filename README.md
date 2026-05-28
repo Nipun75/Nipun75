@@ -8,17 +8,6 @@
 ![India](https://img.shields.io/badge/📍-India-ff7b72?style=flat-square)
 
 ---
-# Developer Mode
-
-```python
-while(alive):
-    eat()
-    code()
-    sleep()
-    repeat()
-
-
----
 
 ## 🧑‍💻 About Me
 
