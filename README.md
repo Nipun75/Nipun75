@@ -27,7 +27,7 @@ Currently leveling up, one algorithm at a time.
 
 ## 📂 Featured Project
 
-### [DSA-Practice](https://github.com/NipunRaj/DSA)
+### [DSA](https://github.com/Nipun75/DSA)
 > A growing collection of Data Structures & Algorithm problems solved in both Python and Java.  
 > Covers arrays, linked lists, trees, graphs, sorting, dynamic programming and more.
 
