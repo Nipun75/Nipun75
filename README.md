@@ -12,18 +12,9 @@
 ## 🧑‍💻 About Me
 
 I'm a passionate coder on a mission to master **Data Structures & Algorithms**.  
-I solve problems in both **Python** and **Java** — because why limit yourself to one language when you can think in two?  
-Currently leveling up, one algorithm at a time.
 
----
 
-## 🛠️ Tech Stack
 
-| 🐍 Python | ☕ Java |
-|-----------|---------|
-| Clean syntax, fast iteration. My go-to for quick problem solving and scripting. | Strong typing, OOP principles. Building discipline and systems thinking. |
-
----
 
 ## 📂 Featured Project
 
@@ -41,16 +32,11 @@ Currently leveling up, one algorithm at a time.
 
 - ▸ Mastering core DSA patterns — sliding window, two pointers, recursion & backtracking
 - ▸ Solving problems consistently on LeetCode / HackerRank
-- ▸ Building stronger foundations in Java OOP & Python internals
 - ▸ Open to collaborating on beginner-friendly open source projects
 
 ---
 
-## 📊 Stats
 
-| 💬 Languages | 📁 Repos | ♾️ Problems |
-|:---:|:---:|:---:|
-| **2** | **1 & growing** | **∞ to solve** |
 
 ---
 
